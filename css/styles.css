@@ -1,5 +1,5 @@
 html, body  {
-  background-image: url('https://github.com/Sukanya-R-ITS/My-Portfolio/blob/main/images/bg.gif');
+  background-image: url("https://github.com/Sukanya-R-ITS/My-Portfolio/blob/main/images/bg.gif");
   background-size: cover;
 }
 
@@ -27,7 +27,7 @@ footer {
 
 }
 
-footer,a {
+footer a {
   text-decoration: none;
   color:  white;
 
