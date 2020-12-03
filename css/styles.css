@@ -1,5 +1,5 @@
 html, body  {
-  background-image: url("../images/bg.gif");
+  background-image: url("./images/bg.gif");
   background-size: cover;
 }
 
