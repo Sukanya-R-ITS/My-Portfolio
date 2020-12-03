@@ -1,0 +1,24 @@
+body  {
+  background-image: url('../images/bg.gif');
+  background-size: cover;
+}
+
+hr{
+  border-style: none;
+  border-top-style: groove;
+  border-color: black;
+  border-width: 5px;
+  width: 100%
+}
+
+.header {
+  background-color:#008B8B;
+  width: 100%;
+
+}
+
+footer {
+  background-color:#008B8B;
+  margin-bottom: 0;
+
+}
